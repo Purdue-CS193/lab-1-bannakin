@@ -1,4 +1,4 @@
-## bannakin's first CS193 Lab
+# bannakin's first CS193 Lab
 
 - Figuring things out is rewarding
 - the TA's are helpful if you ask questions

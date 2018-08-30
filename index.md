@@ -1,7 +1,7 @@
 ## bannakin's first CS193 Lab
--Figuring things out is rewarding
--the TA's are helpful if you ask questions
--There is not a ton of work yet
+- Figuring things out is rewarding
+- the TA's are helpful if you ask questions
+- There is not a ton of work yet
 
 ## Welcome to GitHub Pages
 
